@@ -1,2 +1,11 @@
 
-Cleansed/df_all.csv
+Models/df_all.csv
+Cleansed/.DS_Store
+Cleansed/negative/.DS_Store
+Cleansed/positive/.DS_Store
+Cleansed/unclassified/.DS_Store
+Models/.ipynb_checkpoints/KNN-checkpoint.ipynb
+Models/INF2008_Assignment_02_Starter- CatBoost.ipynb
+Models/INF2008_Assignment_02_Starter- CatBoost.ipynb
+Scripts/.ipynb_checkpoints/Concatenation Script-checkpoint.ipynb
+Scripts/.ipynb_checkpoints/Data_Cleansing-checkpoint.ipynb
